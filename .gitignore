@@ -1,0 +1,3 @@
+deploy.sh
+db/*
+.DS_Store
